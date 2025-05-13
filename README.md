@@ -28,6 +28,8 @@ It’s one of the first open-source agents built to showcase how $LUMIX can powe
 
 ### 1. Clone and Run Locally
 
+To get started, clone this repository and install the dependencies:
+
 ```bash
 git clone https://github.com/Lumixsol/lumix-token-checker.git
 cd lumix-token-checker
@@ -65,6 +67,8 @@ MIT — Free to use, build with, and fork.
 ---
 
 Built by the $LUMIX community. No fluff. Just code.
+
+Be part of the LUMIX revolution and help us drive the future of AI-powered blockchain utilities. We’re always looking for passionate contributors!
 
 ## 🌍 Links
 
